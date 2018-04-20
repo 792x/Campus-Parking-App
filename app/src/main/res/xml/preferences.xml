@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="@string/english1"
+        android:defaultValue="false"
+        android:summary="@string/englishSummary1"
+        android:key="applicationUpdates" />
+    <CheckBoxPreference android:title="@string/english2"
+        android:defaultValue="false"
+        android:summary="@string/englishSummary2"
+        android:key="subscriptionOwner" />
+    <ListPreference     android:title="@string/english6"
+        android:summary="@string/englishSummary6"
+        android:key="language"
+        android:defaultValue="English"
+        android:entries="@array/listArray2"
+        android:entryValues="@array/listValues2" />
+</PreferenceScreen>

@@ -1,0 +1,21 @@
+<resources>
+    <string-array name="listArray">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+    <string-array name="listValues">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+    <string-array name="listArray2">
+        <item>English</item>
+        <item>Dutch</item>
+    </string-array>
+
+    <string-array name="listValues2">
+        <item>English</item>
+        <item>Dutch</item>
+    </string-array>
+</resources>

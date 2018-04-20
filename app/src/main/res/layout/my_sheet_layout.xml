@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    android:elevation="24dp"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="10dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:animateLayoutChanges="true"
+        android:orientation="horizontal"
+        android:weightSum="1.0">>
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:animateLayoutChanges="true"
+            android:orientation="vertical"
+            android:layout_weight="0.5">
+
+            <TextView
+                android:id="@+id/card_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left|top"
+
+                android:text="@string/parkinglot_title_string"
+                android:textSize="20dp" />
+
+
+            <TextView
+                android:id="@+id/card_spots"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left|top"
+                android:text="@string/free_slots_string"
+                android:textSize="16dp" />
+
+            <!--<TextView-->
+                <!--android:id="@+id/card_navigator"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content" />-->
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/card_pic"
+            android:layout_width="0dip"
+            android:layout_height="110dip"
+            android:layout_weight="0.3"
+            android:src="@mipmap/ic_not_available"
+            />
+    </LinearLayout>
+
+
+</FrameLayout>

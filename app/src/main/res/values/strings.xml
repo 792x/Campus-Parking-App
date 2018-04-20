@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">TUeParking</string>
+    <string name="title_activity_maps">TUeParking</string>
+
+    <string name="title_activity_fullscreen_loading">FullscreenLoadingActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_menu_test_01">MenuTest_01</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main5">MainActivity5</string>
+
+
+    <string name="english1">Application updates</string>
+    <string name="english2">Parking subscription card owner</string>
+    <string name="english3">Proximity notification</string>
+    <string name="english4">Electric car</string>
+    <string name="english5">Theme</string>
+    <string name="english6">Language</string>
+    <string name="error_404">Server not found!</string>
+    <string name="reloadText">Try reloading</string>
+
+    <string name="englishSummary1">This option if selected will allow the application to check for latest versions.</string>
+    <string name="englishSummary2">This option if selected will not display any payment information.</string>
+    <string name="englishSummary3">This option if selected will display notifications if you are nearby the TU/e campus.</string>
+    <string name="englishSummary4">This option if selected will display electric car charging stations on and around the TU/e campus.</string>
+    <string name="englishSummary5">Customize the way the app looks.</string>
+    <string name="englishSummary6">Change the app\'s display language.</string>
+    <string name="free_slots_string">Free slots:</string>
+    <string name="navigate_string">Navigate to this location</string>
+    <string name="parkinglot_title_string">Parkinglot title</string>
+    <string name="distance_string">Distance</string>
+    <string name="select_parkingarea_string">Select parking area</string>
+    <string name="search_hint_string">Find building..</string>
+    <string name="find_parking_string">Find parking spot near this building</string>
+
+    <string name="alert_title">Go to my car!</string>
+    <string name="alert_content">Do you want to navigate to your car?</string>
+
+    <string name="alert2_title">Be Careful!</string>
+    <string name="alert2_content">Did you find your car? Pressing \'Yes\' will delete your saved location!</string>
+    <string name="alert_button_yes">Yes</string>
+    <string name="alert_button_cancel">Cancel</string>
+</resources>

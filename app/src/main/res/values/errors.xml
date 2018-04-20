@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_1">
+        <item name="error_1_message" type="string">Unhandled exception</item>
+        <item name="action_1_type" type="string">restart</item>
+        <item name="action_1_message" type="string">Restart the app</item>
+        <item name="action_1_icon" type="drawable">@drawable/ic_android</item>
+    </string-array>
+    <string-array name="error_2">
+        <item name="error_2_message" type="string">Class not found</item>
+        <item name="action_2_type" type="string">restart</item>
+        <item name="action_2_message" type="string">Restart the app</item>
+        <item name="action_2_icon" type="drawable">@drawable/ic_android</item>
+    </string-array>
+    <string-array name="error_404">
+        <item name="error_404_message" type="string">Server not found!</item>
+        <item name="action_404_type" type="string">reload</item>
+        <item name="action_404_message" type="string">Try reloading:</item>
+        <item name="action_404_icon" type="drawable">@drawable/ic_refresh</item>
+    </string-array>
+    <string-array name="error_999">
+        <item name="error_999_message" type="string">Error not found</item>
+        <item name="action_999_type" type="string">restart</item>
+        <item name="action_999_message" type="string">Restart the app</item>
+        <item name="action_999_icon" type="drawable">@drawable/ic_android</item>
+    </string-array>
+</resources>

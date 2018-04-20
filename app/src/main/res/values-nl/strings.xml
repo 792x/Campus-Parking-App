@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">TUeParkeren</string>
+    <string name="title_activity_maps">TUeParkeren</string>
+
+    <string name="title_activity_fullscreen_loading">FullscreenLoadingActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_menu_test_01">MenuTest_01</string>
+
+    <string name="navigation_drawer_open">Open navigatie drawer</string>
+    <string name="navigation_drawer_close">Sluit navigatie drawer</string>
+
+    <string name="action_settings">Instellingen</string>
+    <string name="title_activity_main5">MainActivity5</string>
+
+
+    <string name="english1">Applicatie updates</string>
+    <string name="english2">Parkeerabbonement kaart eigenaar</string>
+    <string name="english3">In-de-buurt notificatie</string>
+    <string name="english4">Elektrische auto</string>
+    <string name="english5">Thema</string>
+    <string name="english6">Taal</string>
+    <string name="error_404">Server niet gevonden!</string>
+    <string name="reloadText">Probeer herladen</string>
+
+    <string name="englishSummary1">Als deze optie geselecteerd is, controleert de applicatie op updates.</string>
+    <string name="englishSummary2">Als deze optie geselecteerd is, dan zal geen informatie over betaling te zien zijn.</string>
+    <string name="englishSummary3">Als deze optie geselecteerd is, krijg je notifcaties te zien wanneer je in de buurt van de TU/e campus bent.</string>
+    <string name="englishSummary4">Als deze optie geselecteerd is, zijn oplaad-stations te zien op de kaart.</string>
+    <string name="englishSummary5">Verander hoe de applicatie eruit ziet.</string>
+    <string name="englishSummary6">Verander de taal van de applicatie.</string>
+    <string name="free_slots_string">Vrije plekken:</string>
+    <string name="navigate_string">Navigeer naar deze locatie</string>
+    <string name="distance_string">Afstand</string>
+    <string name="find_parking_string">Vind een parkeerplek vlakbij dit gebouw</string>
+    <string name="search_hint_string">Zoek een gebouw..</string>
+    <string name="parkinglot_title_string">Parkeerplaats titel</string>
+    <string name="select_parkingarea_string">Kies een parkeerplaats</string>
+
+    <string name="alert_title">Ga naar mijn auto!</string>
+    <string name="alert_content">Wil je naar je auto navigeren?</string>
+
+    <string name="alert2_title">Pas op!</string>
+    <string name="alert2_content">Heb je je auto gevonden? Door op \'Ja\' te drukken gaat de opgeslagen locatie verloren!</string>
+    <string name="alert_button_yes">Ja</string>
+    <string name="alert_button_cancel">Annuleren</string>
+</resources>
