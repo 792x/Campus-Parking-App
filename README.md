@@ -1,5 +1,5 @@
-# TU-e-Parking-App
-TU/e Parking App using a mock server (not maintained)
+# Campus-Parking-App
+Campus Parking App using a mock server (not maintained)
 
 
 ![alt text](https://i.imgur.com/V8n24hO.png)
